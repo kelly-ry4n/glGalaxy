@@ -1,0 +1,1 @@
+bin2go -p TEXTURES -l 12 -c Star.png
